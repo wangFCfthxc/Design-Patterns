@@ -1,5 +1,9 @@
 package Singleton;
 
+/*
+ * 參考博碩.7天學會設計模式.Yan
+ * 由Panda複製,僅供學習使用
+ */
 // 貪婪單例模式 SingletionGreed
 public class SingletonGreed {
 	// 一開始建立物件,只要一直回傳這個物件就是簡單的singleton

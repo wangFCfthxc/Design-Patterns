@@ -1,5 +1,9 @@
 import Singleton.Singleton;
 
+/*
+ * 參考博碩.7天學會設計模式.Yan
+ * 由Panda複製,僅供學習使用
+ */
 //單例模式測試
 public class SingletonTest extends Thread{
 	String myId;
